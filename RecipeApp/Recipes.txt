@@ -1,0 +1,5 @@
+Butter Chicken:chicken;spices:Best Indian recipe!
+Sandwich:bread;ham;cheese;lettuce;mayo:A tasty snack
+Pancake:milk;vanilla extract;flour:A sweet treat for your sweet tooth.
+Cake:sugar;vanilla extract;flour:Baking time!
+Mac and Cheese:macaroni;milk;cheese:A delicious meal.
